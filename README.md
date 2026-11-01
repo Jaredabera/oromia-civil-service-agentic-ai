@@ -41,10 +41,10 @@ The full V3 source package is being staged for this repository. Until its entire
 
 ## Security and evaluation
 
-- Never put citizen identities, production screenshots, credentials, or approval tokens in Git.
-- Do not expose your Docker dashboard or mock-portal APIs directly on GitHub Pages.
+- Real citizen identities, production screenshots, credentials, or approval tokens in Git is not here. I will incorporate it later
+- Docker dashboard/mock-portal APIs can be found once executed following the requirements.
 - Establish a dataset-based accuracy benchmark, failure-injection tests, and audited throughput measurements before claiming superior accuracy or financial savings.
-- Keep humans in control of consequential decisions and submissions.
+- In our work we aim to keep humans in control of consequential decisions and submissions.
 
 Read [architecture](docs/architecture.md), [agent tasks](docs/agent-tasks.md), [local deployment](docs/deployment.md), and [security](SECURITY.md).
 
