@@ -1,7 +1,7 @@
 # Agent tasks and decision model
 
 ## Mission
-Given a citizen request written in Afaan Oromoo, prepare a validated administrative record and propose routing to the correct department, using a real browser on an authorized test portal. Obtain human approval before submission.
+Given a citizen request written in Afaan Oromoo, We prepared a validated administrative record and propose routing to the correct department, using a real browser on an authorized test portal. This module required human approval before submission.
 
 ## Eight observable stages
 
@@ -32,7 +32,7 @@ Example actions: click, type, select, wait, terminate, or request human takeover
 | Waajjira | Office |
 | Tajaajila | Service |
 
-A glossary is only a fallback: administrative terms may vary by portal and context.
+A glossary is only a fallback: administrative terms may vary by portal and context. And yet to be validated on real dataset from the Oromia civil service regional office
 
 ## Expected demo events
 
